@@ -7,6 +7,7 @@
 		printf("Before the GetDateTime() function is called.\n");
 		GetDateTime();
 		printf("After the GatDateTime() function is called.\n");
+		printf("i'm glad to be part of this journey!\n");
 		return 0;
 
 	}
